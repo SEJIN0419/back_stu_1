@@ -25,16 +25,3 @@ while(True):
             one = (total % 5000) // 1000 # 천원
             back = (total % 1000) // 100 # 백원
             print(f"거스름돈은 : 5만원 {fifty}장, 만원 {ten}장, 오천원 {five}장, 천원 {one}장, 백원 {back}개 입니다")
-
-
-
-
-
-
-
-
-
-
-
-
-
